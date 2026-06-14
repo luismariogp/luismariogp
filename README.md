@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor`**
 
-Me chamo Luís Mário, tenho 20 anos e sou natural do estado de São Paulo. ou estudante de tecnologia apaixonado por programação e aprendizado contínuo. Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento de software, com foco em Java. Tenho interesse em entender não apenas como o código funciona, mas também como projetar soluções organizadas, reutilizáveis e bem estruturadas. Busco evoluir constantemente minhas habilidades técnicas, lógica de programação e boas práticas de desenvolvimento.
+Me chamo Luís Mário, tenho 21 anos e sou natural do estado de São Paulo. Sou estudante de tecnologia apaixonado por programação e aprendizado contínuo. Atualmente estou desenvolvendo meus conhecimentos em desenvolvimento de software, com foco em Java. Tenho interesse em entender não apenas como o código funciona, mas também como projetar soluções organizadas, reutilizáveis e bem estruturadas. Busco evoluir constantemente minhas habilidades técnicas, lógica de programação e boas práticas de desenvolvimento.
 
 <p align="left"> 
     <a href="https://github.com/luismariogp?tab=repositories&sort=stargazers">
