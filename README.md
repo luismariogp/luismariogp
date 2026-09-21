@@ -166,8 +166,6 @@ Repositório com exercícios e práticas desenvolvidos durante meus estudos de p
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
