@@ -141,12 +141,11 @@ Repositório com exercícios e práticas desenvolvidos durante meus estudos de p
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismariogp&show_icons=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=60A5FA&text_color=CBD5E1&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismariogp&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&cache_seconds=86400" alt="Top Languages"/>
+<img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 ---
