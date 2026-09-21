@@ -37,7 +37,13 @@ Gosto de entender **como as coisas funcionam por trás do código**, resolver pr
 <div align="center">
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,bootstrap,git,github,py">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" height="50" alt="Spring Boot"/>
+
+</div>
 
 ### Banco de Dados
 
