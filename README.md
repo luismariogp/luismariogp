@@ -166,6 +166,8 @@ Repositório com exercícios e práticas desenvolvidos durante meus estudos de p
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
 <picture>
@@ -183,10 +185,10 @@ Repositório com exercícios e práticas desenvolvidos durante meus estudos de p
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/luismariogp/luismariogp/output/github-contribution-grid-snake.svg"
   />
+
 </picture>
 
 </div>
-
 ---
 
 ## 🎯 Foco atual
