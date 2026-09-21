@@ -161,13 +161,11 @@ Repositório com exercícios e práticas desenvolvidos durante meus estudos de p
 ---
 
 ## 📈 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luismariogp&bg_color=0F172A&color=CBD5E1&line=2563EB&point=60A5FA&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="./profile/activity-graph.svg" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
