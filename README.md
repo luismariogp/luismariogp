@@ -158,23 +158,9 @@ Repositório com exercícios e práticas desenvolvidos durante meus estudos de p
 
 </div>
 
----
 
-## 📈 Activity Graph
-<div align="center">
 
-<img src="./profile/activity-graph.svg" width="95%" alt="GitHub Activity Graph"/>
 
-</div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luismariogp&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
