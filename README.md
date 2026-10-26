@@ -64,7 +64,6 @@ Gosto de entender **como as coisas funcionam por trás do código**, resolver pr
 </div>
 
 ---
-
 ## 🚀 Projetos em destaque
 
 <table>
@@ -72,28 +71,28 @@ Gosto de entender **como as coisas funcionam por trás do código**, resolver pr
 
 <td width="50%" align="center">
 
-<h3>☕ Projeto POO</h3>
+<h3>🏛️ SIDESP — Backend</h3>
 
 <p>
-Projeto acadêmico desenvolvido em Java, relacionado ao projeto de extensão e ao desenvolvimento de um sistema backend.
+Projeto de extensão desenvolvido em equipe para a Prefeitura, com backend em Java e Spring Boot, modelagem de banco de dados, migrations e funcionalidades de gerenciamento de cadastros.
 </p>
 
-<a href="https://github.com/luismariogp/Projeto-POO">
-<img src="https://img.shields.io/badge/Ver%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto POO"/>
+<a href="https://github.com/luismariogp/projeto-SIDESP">
+<img src="https://img.shields.io/badge/Ver%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver SIDESP"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🎬 Screenmatch</h3>
+<h3>🎬 ScreenMatch</h3>
 
 <p>
-Projeto desenvolvido durante meus estudos de Java e Programação Orientada a Objetos.
+Aplicação em Java e Spring Boot para consultar séries, temporadas e episódios por meio da API OMDb, praticando consumo de APIs, conversão de JSON e Streams.
 </p>
 
-<a href="https://github.com/luismariogp/screenmatch">
-<img src="https://img.shields.io/badge/Ver%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Screenmatch"/>
+<a href="https://github.com/luismariogp/screenmatch-sem-web">
+<img src="https://img.shields.io/badge/Ver%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver ScreenMatch"/>
 </a>
 
 </td>
@@ -107,7 +106,7 @@ Projeto desenvolvido durante meus estudos de Java e Programação Orientada a Ob
 <h3>🎵 Minhas Músicas</h3>
 
 <p>
-Projeto desenvolvido durante meus estudos de Java e Programação Orientada a Objetos.
+Projeto desenvolvido em Java para praticar Programação Orientada a Objetos, classes e organização de código.
 </p>
 
 <a href="https://github.com/luismariogp/MinhasMusicas">
@@ -118,28 +117,18 @@ Projeto desenvolvido durante meus estudos de Java e Programação Orientada a Ob
 
 <td width="50%" align="center">
 
-<h3>📚 Estudos Java</h3>
+
+<h3>💳 Simulador de Cartão de Crédito</h3>
 
 <p>
-Repositório com exercícios e práticas desenvolvidos durante meus estudos de programação em Java.
+Projeto desenvolvido em Java para praticar Programação Orientada a Objetos, organização de classes e lógica de programação.
 </p>
 
-<a href="https://github.com/luismariogp/estudosjava-">
-<img src="https://img.shields.io/badge/Ver%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Estudos Java"/>
+<a href="https://github.com/luismariogp/simulador-de-cartao">
+<img src="https://img.shields.io/badge/Ver%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Simulador de Cartão de Crédito"/>
 </a>
 
 </td>
-
-</tr>
-</table>
-
-<div align="center">
-
-<br>
-
-<a href="https://github.com/luismariogp?tab=repositories">
-<img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Todos os repositórios"/>
-</a>
 
 </div>
 
