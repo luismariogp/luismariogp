@@ -115,8 +115,8 @@ Projeto desenvolvido em Java para praticar Programação Orientada a Objetos, cl
 
 </td>
 
-<td width="50%" align="center">
 
+<td width="50%" align="center">
 
 <h3>💳 Simulador de Cartão de Crédito</h3>
 
@@ -130,7 +130,8 @@ Projeto desenvolvido em Java para praticar Programação Orientada a Objetos, or
 
 </td>
 
-</div>
+</tr>
+</table>
 
 ---
 
